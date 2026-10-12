@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp2.maui"
+             Title="maui">
+    <VerticalStackLayout>
+        <Label 
+            Text="hetz vakeshet"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Button 
+            FontFamily="MaterialIcons-Regular"
+            FontSize="24"
+            Text="&#xe027;"/>
+    </VerticalStackLayout>
+</ContentPage>
